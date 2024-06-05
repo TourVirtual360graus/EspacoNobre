@@ -1,0 +1,97 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send?phone=5548984751144
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send?phone=5548984751144
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CdkA07cVD5TiEBM/review
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CdkA07cVD5TiEBM/review
+LinkBehaviour_5AE78AB1_4B9C_B37E_41B4_FA5671ED0C56.source = https://www.espaconobrefer.com.br
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.espaconobrefer.com.br
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/espaconobrefer
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/espaconobrefer
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Espa%C3%A7o+Nobre+M%C3%B3veis+%26+Decora%C3%A7%C3%A3o+-+Sof%C3%A1s,+Mesas,+Poltronas,+Cadeiras,+Quadros/@-27.5688465,-48.6086343,15z/data=!4m2!3m1!1s0x0:0xe2940f15b7d300d9?sa=X&ved=1t:2428&ictx=111
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Espa%C3%A7o+Nobre+M%C3%B3veis+%26+Decora%C3%A7%C3%A3o+-+Sof%C3%A1s,+Mesas,+Poltronas,+Cadeiras,+Quadros/@-27.5688465,-48.6086343,15z/data=!4m2!3m1!1s0x0:0xe2940f15b7d300d9?sa=X&ved=1t:2428&ictx=111
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/espaconobrefer/
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/espaconobrefer/
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = tel:4833800846
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = tel:4833800846
+
+## Media
+
+### Audio
+audio_FE13820B_E8D2_7445_41E1_88A9CCF7AC9C.path = null
+audio_F06673B9_E8B2_3442_41E6_523C1F8E4D63.path = null
+audiores_F0949AF5_E8BE_55C2_4181_A2D8DFD3D01B.mp3Url = media/audio_F06673B9_E8B2_3442_41E6_523C1F8E4D63_pt.mp3
+audiores_F0949AF5_E8BE_55C2_4181_A2D8DFD3D01B.oggUrl = media/audio_F06673B9_E8B2_3442_41E6_523C1F8E4D63_pt.ogg
+audiores_F0C8E776_E8BE_7CCF_41A1_122C8C904400.mp3Url = media/audio_FE13820B_E8D2_7445_41E1_88A9CCF7AC9C_pt.mp3
+audiores_F0C8E776_E8BE_7CCF_41A1_122C8C904400.oggUrl = media/audio_FE13820B_E8D2_7445_41E1_88A9CCF7AC9C_pt.ogg
+
+### Title
+panorama_E3217EBD_E8B2_2DBD_41C4_5F4E2658CC45.label = 3 ou 4 foto esquerda-DeNoiseAI-clear
+panorama_E2CA096F_E8B2_54DE_41DE_3774337EB7D4.label = Entrada denoise arrumada
+panorama_E2CA4272_E8B2_D4C7_41D1_8DFD80CD4BE2.label = PERTO BALANÇO-DeNoiseAI-clear
+panorama_E23637B5_E8B2_3C42_41E6_4CA4F8F1CBF3.label = após entrada 3-DeNoiseAI-clear
+panorama_E2CA206C_E8B2_54C2_41D2_674C094AA8E2.label = após entrada esquerda 2-DeNoiseAI-clear
+panorama_E2CA7853_E8B2_54C6_41CC_F5DDBCAC4C29.label = atendimento ao lado balanço 2-DeNoiseAI-clear
+panorama_E2CAC17D_E8B2_74C2_41D4_D14E721D726C.label = cena mesa preta cima-DeNoiseAI-clear
+panorama_E2CA0972_E8B2_74C6_41D1_2DCA2B61E3E8.label = cima frente fachada 1-DeNoiseAI-clear
+panorama_E2CA1135_E8B2_5442_41E9_8906C616910A.label = cima numero 2 fachada-DeNoiseAI-clear
+panorama_E2CAF1CD_E8B2_37DD_41CD_4CA98291D673.label = entrada2-DeNoiseAI-raw
+panorama_E2CA19DA_E8B2_37C6_4177_AAC0CA43E65E.label = fachada-DeNoiseAI-clear
+panorama_E2CA0242_E8B2_D4C6_41D7_655ECE35B270.label = final corredor cima-DeNoiseAI-clear
+panorama_E2CA2AC3_E8B2_D5C6_41DE_D8699DA6914E.label = frente atendimento 2-DeNoiseAI-clear
+panorama_E2CA52A1_E8B2_F442_41C1_F023810B3BB8.label = frente cafe-DeNoiseAI-clear
+panorama_E2CA5A91_E8B2_F442_41E0_02AA34F29DD9.label = frente escada baixo-DeNoiseAI-clear
+panorama_E2CA4ABB_E8B2_D446_41EA_872A3352DDCB.label = sala baixo 1-DeNoiseAI-clear
+panorama_E2CA431E_E8B2_347E_41EC_EF3F5A09FAD8.label = sala cima tapete-DeNoiseAI-clear
+panorama_E2CA5B59_E8B2_34C2_41E2_85AB2FD31A59.label = sala cima-DeNoiseAI-clear
+panorama_E2CBE3F4_E8B2_5BC2_41C0_D568AF57EEDE.label = sala escada cima-DeNoiseAI-clear
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_7E419219_7403_925D_41AB_E7237CB71057.path = null
+Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969.url = skin/Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969_pt.png
+Image_7E419219_7403_925D_41AB_E7237CB71057.url = skin/Image_7E419219_7403_925D_41AB_E7237CB71057_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual e Conheça Nossa Loja
+
+### Title
+tour.name = Espaço Nobre Móveis e Decorações
